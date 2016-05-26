@@ -4,7 +4,8 @@
     	width: 128,
     	height: 128,
     	colorDark : "#000000",
-    	colorLight : "#ffffff"
+    	colorLight : "#ffffff",
+    	correctLevel : QRCode.CorrectLevel.L
 	});
 	bg.refreshPopup(function (data) {
 		console.log(data);
