@@ -1,0 +1,2 @@
+# QRCode_ChromeExt
+一个用于将url转化成二维码的chrome插件，便于在PC上开发移动端页面时进行手机扫码测试
